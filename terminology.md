@@ -7,3 +7,7 @@ accounts payable
 Rollover
 - aka. 展期
 - Used in FX Forward, Fixed Deposit
+
+
+Straight-Through Processing (STP)
+- 前中後台的整合
