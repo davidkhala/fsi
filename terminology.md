@@ -40,4 +40,10 @@ Daily Trade Blotter
 
 
 Repo / Reverse Repo 交易類型
-- 回購或逆回購交易
+- aka. 回購或逆回購交易
+
+haircut
+- aka. 折讓
+- 資產估值時所施加的折扣。
+- 通常用在collateral或Repo中
+  - 等於collateral名義價值 minus 抵押價值，所占名義價值的百分比
