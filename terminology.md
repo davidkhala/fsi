@@ -33,3 +33,11 @@ Standard Settlement Instruction (SSI)
   - account number
   - Currency
   - 結算方式 e.g. Fedwire
+
+Daily Trade Blotter
+- 每日交易記錄manifest
+- 用於Finance & Investment team
+
+
+Repo / Reverse Repo 交易類型
+- 回購或逆回購交易
