@@ -10,4 +10,4 @@ Rollover
 
 
 Straight-Through Processing (STP)
-- 前中後台的整合
+- 前中後台的整合：交易從前台到後台的自動化流程
