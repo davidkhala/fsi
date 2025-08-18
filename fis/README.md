@@ -3,4 +3,4 @@
 
 
 # FIS Kbase
-- formerly Front Arena Knowledgebase
+- formerly known as: Front Arena Knowledgebase
