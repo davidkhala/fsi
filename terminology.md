@@ -19,3 +19,7 @@ netting
 xV01: x變動0.01%時，金融工具的value change
 - Price Value of 1 basis point(PV01)：x=利率
 - Credit Value of 1 basis point(CV01): x=Credit Spread
+
+Tenor Bucket
+- aka. 期限區間
+- 將某些對象按不同到期時間分組。如0-1年，1-5年，5-10年
