@@ -15,3 +15,7 @@ Straight-Through Processing (STP)
 netting
 - aka. 沖銷, 抵銷
 - 將多筆交易的應收與應付金額進行合併與抵銷，從而只結算「淨額」，以減少實際支付的筆數與金額。
+
+xV01: x變動0.01%時，金融工具的value change
+- Price Value of 1 basis point(PV01)：x=利率
+- Credit Value of 1 basis point(CV01): x=Credit Spread
