@@ -1,3 +1,6 @@
+Money Market (MM)
+- aka. 货币市场
+
 Request payment
 - aka. Send and invoice, 请款
 
