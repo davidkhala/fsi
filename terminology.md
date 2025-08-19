@@ -42,11 +42,17 @@ Daily Trade Blotter
 - 用於Finance & Investment team
 
 
+
+# Repo
+所有 repo 的核心机制是：以证券作为抵押，换取现金
+
 Repo / Reverse Repo 交易類型
 - aka. 回購或逆回購交易
 
+
+## collateral
 haircut
 - aka. 折讓
 - 資產估值時所施加的折扣。
-- 通常用在collateral或Repo中
-  - 等於collateral名義價值 minus 抵押價值，所占名義價值的百分比
+  - `Collateral Value = Notional Value(名義價值) × (1−Haircut)`
+
