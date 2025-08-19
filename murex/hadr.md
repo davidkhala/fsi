@@ -1,0 +1,1 @@
+> To get high availability and resiliency of the Murex solutions on Azure, you should run each layer of the application tier in at least two VMs. 
