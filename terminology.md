@@ -1,3 +1,8 @@
+square trade
+- aka. square off trades, 平仓
+
+
+
 Money Market (MM)
 - aka. 货币市场
 
