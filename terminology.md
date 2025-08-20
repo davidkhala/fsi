@@ -4,6 +4,7 @@ square trade
 Position 
 - holding of asset, in point-of-time
 - aka. 持仓，头寸（于外汇，利率，衍生品交易场景）
+
 Money Market (MM)
 - aka. 货币市场
 
@@ -47,7 +48,11 @@ Daily Trade Blotter
 - 每日交易記錄manifest
 - 用於Finance & Investment team
 
-
+Forward 远期合约
+- 和Future的不同
+  - 它一般是OTC，而不是在交易所标准化的，因此有对手方违约风险
+  - 到期一次性结算，而非每日结算（Mark-To-Market）
+  - 通常不需要保证金（初始和维持）
 
 # Repo
 所有 repo 的核心机制是：以证券作为抵押，换取现金
