@@ -1,9 +1,9 @@
 square trade
 - aka. square off trades, 平仓
 
-Position 持倉
+Position 
 - holding of asset, in point-of-time
-
+- aka. 持仓，头寸（于外汇，利率，衍生品交易场景）
 Money Market (MM)
 - aka. 货币市场
 
