@@ -58,6 +58,7 @@ list of functions
 - AuthN: SAML
 - AuthR
 - Caching: in-memory data grid, for critical calculation and aggregation
+  - Apache Storm/Apache Spark/VMware Tanzu Gemfire
 - Messaging
 - Cluster management
   - k8s: Elastic compute for market risk and reporting
