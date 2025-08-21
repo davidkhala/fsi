@@ -21,6 +21,16 @@ Spot
 - aka. 期权
 - 赋予买方在未来某日期以特定价格买入或卖出资产的权利
 
+## Quantity Adjusted Option (Quanto)
+- an exotic option, popular in structured products
+- is cross-currency derivative
+  - The underlying asset is denominated in one currency
+  - The settlement is made in another currency
+  - The exchange rate is fixed at start of contract
+- Benefits
+  - No need for separate currency hedges.  
+  - No exposure to exchange rate risk
+
 # Future
 - aka. 期货
 - 在未来某一日期（地点）以约定价格进行买卖
